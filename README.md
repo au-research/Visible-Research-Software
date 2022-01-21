@@ -22,6 +22,6 @@ Please join the email list to hear about further activates and become more invol
 
 ### Join the discussion
 
-This GitHub repository has discussions enabled, so feel free to ask questions or join conversations there. We are using this as the forum and main enabler of communications.
+This GitHub repository has [discussions enabled](https://github.com/au-research/Visible-Research-Software-IG/discussions), so feel free to ask questions or join conversations there. We are using this as the **forum** and main enabler of communications.
 
 

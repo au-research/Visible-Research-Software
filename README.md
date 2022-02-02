@@ -5,6 +5,8 @@
 The Visible Research Software Interest Group is a space for community conversation, i.e. an online forum for people within Australasian Research Institutions to discuss visibility of research software, e.g. citation, publication, and FAIRification.
 The Visible Research Software Interest Group acts as a catalyst to jump-start coordinated activities designed to improve the visibility of research software assets to recognise authors of research software and improve the sustainability of those assets.
 
+[Visit the website](https://sites.google.com/ardc.edu.au/visible-research-software)
+
 ## Goals
 
 Stimulate community participation to share existing guidance, embrace new ideas (policy, incentives, partnerships, etc. ), expand networking and advance together.

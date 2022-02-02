@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Visible Research Software Interest Group is a space for community conversation, i.e. an online forum for people within Australian Research Institutions to discuss visibility of research software, e.g. citation, publication, and FAIRification.
+The Visible Research Software Interest Group is a space for community conversation, i.e. an online forum for people within Australasian Research Institutions to discuss visibility of research software, e.g. citation, publication, and FAIRification.
 The Visible Research Software Interest Group acts as a catalyst to jump-start coordinated activities designed to improve the visibility of research software assets to recognise authors of research software and improve the sustainability of those assets.
 
 ## Goals
@@ -16,12 +16,11 @@ Research software is defined here to include source code files, algorithms, scri
 
 ## How to get involved?
 
-### Join the mailing list
+### Apply to join
 
-Please join the email list to hear about further activates and become more involved! We aim to send a summary of discussions bimonthly.
+Please join to actively participate and help shape this community, by filling in this short [application form](https://forms.gle/6mCdRvieYx6tyu5k7). When you join you will be added to the email list to hear about further activities and become more involved! We aim to send a summary of discussions bimonthly.
 
 ### Join the discussion
 
-This GitHub repository has [discussions enabled](https://github.com/au-research/Visible-Research-Software-IG/discussions), so feel free to ask questions or join conversations there. We are using this as the **forum** and main enabler of communications.
-
+At any time, we welcome your contributions via the public [discussions forum](https://github.com/au-research/Visible-Research-Software/discussions). We use categories for discussions and you can read about them in [the welcome message](https://github.com/au-research/Visible-Research-Software/discussions/1).
 

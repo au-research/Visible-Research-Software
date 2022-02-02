@@ -12,7 +12,7 @@ Increase awareness of national and international guidance to improve the visibil
 
 ## Research Software Definition
 
-Research software is defined here to include source code files, algorithms, scripts, computational workflows and executables that were created during the research process or for a research purpose. Software components (e.g. operating systems, libraries, dependencies, packages, scripts, etc.) that are used for research but were not created during or specifically for research should be considered software in research and not research software ([Gruenpeter et al., 2021](https://doi.org/10.5281/ZENODO.5504016)).
+Research software is defined to include source code files, algorithms, scripts, computational workflows and executables created during the research process or for a research purpose. Software components (e.g. operating systems, libraries, dependencies, packages, scripts, etc.) used for research but not created during or specifically for research should be considered software in research and not research software ([Gruenpeter et al., 2021](https://doi.org/10.5281/ZENODO.5504016)).
 
 ## How to get involved?
 
